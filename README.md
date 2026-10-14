@@ -60,7 +60,7 @@ cd /home/workspace/my-project/internship-portal
 
 Start the application:
 
-./start.sh
+cd /home/workspace/my-project/internship-portal && ./start.sh
 
 Open the Simple Browser or another browser and visit:
 
